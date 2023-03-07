@@ -1,1 +1,1 @@
-first directory
+first directory and updated readme
